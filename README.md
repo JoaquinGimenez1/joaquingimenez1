@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joaquin Gimenez</h1>
-<h3 align="center">A passionate full-stack engineer from Paraguay 🇵🇾</h3>
+<h3 align="center">A full-stack engineer from Paraguay 🇵🇾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquingimenez1&label=Profile%20views&color=0e75b6&style=flat" alt="joaquingimenez1" /> </p>
 
