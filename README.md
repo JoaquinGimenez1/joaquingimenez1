@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquingimenez1&label=Profile%20views&color=0e75b6&style=flat" alt="joaquingimenez1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquingimenez1" alt="joaquingimenez1" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquingimenez1&theme=onedark" alt="joaquingimenez1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/joaquingimenez1" target="blank"><img src="https://img.shields.io/twitter/follow/joaquingimenez1?logo=twitter&style=for-the-badge" alt="joaquingimenez1" /></a> </p>
 
